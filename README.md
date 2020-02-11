@@ -1,1 +1,1 @@
-# Demo repository for a website
+# Demo respository for a website
